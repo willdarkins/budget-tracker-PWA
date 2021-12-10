@@ -18,7 +18,7 @@ request.onsuccess = function (event) {
 
     // check if app is online
     if (navigator.onLine) {
-        // uploadPizza();
+         uploadTransaction()
     }
 };
 
