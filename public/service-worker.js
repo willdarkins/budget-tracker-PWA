@@ -11,7 +11,6 @@ const FILES_TO_CACHE = [
     '/icons/icon-152x152.png',
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png',
-    '/icons/icon-128x128.png',
     '/js/idb.js',
     '/js/index.js',
     '/index.html',
@@ -22,7 +21,7 @@ const FILES_TO_CACHE = [
 self.addEventListener('install', function(evt) {
     evt.waitUntil(
         caches.open(CACHE_NAME).then(cache => {
-            console.log('Your fiels were pre-cached succesffuly!');
+            console.log('Your fields were pre-cached succesffuly!');
             return cache.addAll(FILES_TO_CACHE);
         })
     );
