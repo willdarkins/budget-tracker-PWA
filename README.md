@@ -19,7 +19,6 @@ Please follow **[THIS LINK](https://budget-tracker-darkins-v2.herokuapp.com/)** 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Features](#feature)
 * [Questions](#questions)
 
 ## Badges 
