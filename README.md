@@ -2,28 +2,35 @@
 # 💻 budget-tracker-PWA
 
 ## Description
-*The what, why, and how:*<br>
+A simple budget tracking application with PWA capabilities, allowing users to track withdrawals and deposits with or without a data/internet connection and maintain an accurate balance while traveling.
 
+<b>Below are screenshots that provide further reference:<b>
+<br>
 
 ## Table of Contents
 
-* [Installation](#installation)
 * [Badges](#badges)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 * [Features](#feature)
 * [Questions](#Questions)
 
-## Installation
-*Steps required to install project and how to get the development environment running:* 
-<br>
-
-
 ## Badges 
-*The following programming languages were utilized when completing this project:*
+*The following programming languages, frameworks, platforms and libraries were utilized when completing this project:*
 <br>
-![HTML](https://img.shields.io/badge/Language-HTML-yellowgreen.svg)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Installation
+<br>
+
 
 ## Usage
 *Instructions and examples for use:*
