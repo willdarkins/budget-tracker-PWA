@@ -8,6 +8,9 @@ Please follow **[THIS LINK](https://budget-tracker-darkins-v2.herokuapp.com/)** 
 
 <b>Below are screenshots that provide further reference:<b>
 <br>
+![Screenshot_1](https://user-images.githubusercontent.com/84754257/145705307-c7384e23-4966-4f44-b399-cfd68271c306.png)
+![Screenshot_2](https://user-images.githubusercontent.com/84754257/145705309-60899a13-63d8-4c93-bd8a-da782c0c281a.png)
+![Screenshot_3](https://user-images.githubusercontent.com/84754257/145705311-245b0406-7f9a-4d0e-a8d5-89ad9c7f25e5.png)
 
 ## Table of Contents
 
@@ -99,7 +102,6 @@ Please follow **[THIS LINK](https://budget-tracker-darkins-v2.herokuapp.com/)** 
 - If network connection is weak, or there is a loss of connectivity (⚠️), the application should include data persistence that allows users to continue making transactions
   - When connection is re-established, an altert reading `All saved budget data has been submitted!`will notify the user that all data handled during loss of connectivity has been submitted to the database
   - You can view the cached data in the `Application` tab in Chrome Dev Tools
-<br>
 
 ## Credits
 Big shout out to <a href = https://github.com/Ileriayo>Ileriayo Adebiyi</a> and his <a href =https://github.com/Ileriayo/markdown-badges>markdown badges repository</a> which made this project all the more beautiful. Thank You.<br>
@@ -114,6 +116,8 @@ This project adheres to standards set by the <a href = https://www.contributor-c
 Please consult this documentation before contributing to this project.
 
 ## Questions
+![Profile Pic](https://user-images.githubusercontent.com/84754257/145705294-57134da6-c3b7-40f4-bcbe-ad9cddb27f47.jpg)
+
 If you have any questions regarding the development process of this application, or specific questions about contributing, feel free to reach me by email or on Github.
 * Email 📪 willdarkins@gmail.com
 * Github 🗿 [willdarkins](https://github.com/willdarkins) 
